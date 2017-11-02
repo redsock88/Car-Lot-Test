@@ -1,0 +1,6 @@
+App started!
+Printing Lot Inventory
+Lot Space #1: Jaguar / XK / 2016
+Lot Space #2: Jeep / Cherokee / 2015
+Lot Space #3: Ford / F150 / 2015
+Lot Space #4: Jaguar / F-Type / 2017

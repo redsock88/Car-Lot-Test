@@ -1,0 +1,33 @@
+App started!
+Engine has started.
+Headlights has started.
+Stereo has started.
+Started car
+Engine has started.
+Headlights has started.
+Stereo has started.
+Started car
+Engine has started.
+Headlights has started.
+Stereo has started.
+Started car
+Engine has started.
+Headlights has started.
+Stereo has started.
+Started car
+Engine has stopped.
+Headlights has stopped.
+Stereo has stopped.
+Stopped car
+Engine has stopped.
+Headlights has stopped.
+Stereo has stopped.
+Stopped car
+Engine has stopped.
+Headlights has stopped.
+Stereo has stopped.
+Stopped car
+Engine has stopped.
+Headlights has stopped.
+Stereo has stopped.
+Stopped car

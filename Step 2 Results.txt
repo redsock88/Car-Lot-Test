@@ -1,0 +1,4 @@
+App started!
+Printing Filtered Lot Inventory
+Lot Space #1: Jaguar / XK / 2016
+Lot Space #4: Jaguar / F-Type / 2017
